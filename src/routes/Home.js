@@ -342,7 +342,7 @@ const Home = ({ networkName, account }) => {
     // Render ---------------------------------------------------------------------------------------------------------- //
     return (
         <main style={{ padding: "1rem 0" }} className='app-body'>
-            <h2>EVM Blockchain Explorer</h2>
+            <h2>TFTC Blockchain Explorer</h2>
 
             {/* Search Bar */}
             <SearchBar />

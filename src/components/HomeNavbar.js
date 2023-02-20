@@ -9,7 +9,7 @@ const Navigation = ({ web3Handler, account, networkName }) => {
         <Navbar expand="lg" bg="dark" variant="dark" classMap="NavBar">
             <Container>
                 <Navbar.Brand href="/">
-                    &nbsp; EVM Explorer
+                    &nbsp; TFTC Explorer
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">

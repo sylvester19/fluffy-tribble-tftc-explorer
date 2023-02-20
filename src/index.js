@@ -4,10 +4,10 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 //change website title
-document.title = "EVM Blockchain Explorer";
+document.title = "TFTC Blockchain Explorer";
 
 //change website description
-document.querySelector('meta[name="description"]').setAttribute('content', "EVM Blockchain Explorer");
+document.querySelector('meta[name="description"]').setAttribute('content', "TFTC Blockchain Explorer");
 
 const rootElement = document.getElementById("root");
 render( <App />, rootElement);
