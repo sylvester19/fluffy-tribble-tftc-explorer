@@ -324,19 +324,19 @@ function App() {
             <Row>
               <div className="col-md-3">
                 <p>
-                EVM Explorer is a tool for navigating and analyzing public and private EVM based blockchains. Blockchain explorer for Ethereum Networks.
+                A defi protocol system Automated Market Maker - Liquidity Mining - Yield Farming method to earn passive income without any trading knowledge.
                 </p>
                 </div>
               <div className="col-md-9">
                 <p className="text-right">
-                  <Button variant="secondary" size="sm" onClick={setNetwork}>Add xETH to Metamask!&nbsp;<img src="https://raw.githubusercontent.com/MetaMask/metamask-extension/develop/app/images/icon-16.png"/></Button>
+                  <Button variant="secondary" size="sm" onClick={setNetwork}>Add TFTC to Metamask!&nbsp;<img src="https://raw.githubusercontent.com/MetaMask/metamask-extension/develop/app/images/icon-16.png"/></Button>
                 </p>
               </div>
             </Row>
             <Row>
               <Col md={12}>
                 <p>
-                  Copyright <a href="https://www.coeptix.com" target="_blank" rel="noopener noreferrer">CoeptIX</a> 2022. All rights reserved.
+                  Copyright <a href="https://tycoonfin.com/" target="_blank" rel="noopener noreferrer">Tycoon Fintech</a> 2023. All rights reserved.
                 </p>
                 </Col>
             </Row>

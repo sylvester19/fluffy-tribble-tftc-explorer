@@ -1,6 +1,6 @@
 # EVM Explorer
 
-An EVM compatible blockchain explorer project to learn about ethereum, solidity, web3js, etherjs, reactjs and more!
+Blockchain explorer to track blocks, transactions etc on TFTC blockchain.
 
 # Installation
 
@@ -18,4 +18,4 @@ npm run start
 ```
 
 #
-https://etherscan.coeptix.net/
+https://tftc-explorer.vercel.app
