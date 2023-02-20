@@ -26,6 +26,5 @@ artifacts/
 cache/
 package-lock.json
 TODO.txt
-config.json
 .env
 .build
